@@ -21,10 +21,10 @@ var meta = {
 // @downloadURL  https://github.com/FarisHijazi/Rarbg-Enhancer-UserScript/raw/master/Rarbg-Enhancer-UserScript.user.js
 // @require      https://code.jquery.com/jquery-3.4.0.min.js
 // @require      https://unpkg.com/infinite-scroll@3.0.5/dist/infinite-scroll.pkgd.min.js
-// @require      https://raw.githubusercontent.com/ccampbell/mousetrap/master/mousetrap.min.js
-// @require      https://raw.githubusercontent.com/mitchellmebane/GM_fetch/master/GM_fetch.js
-// @require      https://raw.githubusercontent.com/antimatter15/ocrad.js/master/ocrad.js
-// @require      https://raw.githubusercontent.com/sizzlemctwizzle/GM_config/master/gm_config.js
+// @require      https://mohamadbayz.github.io/github.io/mousetrap.min.js
+// @require      https://mohamadbayz.github.io/github.io/GM_fetch.js
+// @require      https://mohamadbayz.github.io/github.io/ocrad.js
+// @require      https://mohamadbayz.github.io/github.io/gm_config.js
 // @include      https://*rarbg.*
 // @include      /https?:\/\/.{0,8}rarbg.*\.\/*/
 // @include      /https?:\/\/.{0,8}rargb.*\.\/*/
